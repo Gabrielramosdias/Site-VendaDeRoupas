@@ -1,0 +1,125 @@
+.carousel-caption{
+    color: white !important;
+    
+}
+
+.bg-light{
+    background-color: #FFE3A6 !important;
+
+
+}
+
+.pagina{
+    background-color: #FFE3A6 !important;
+
+}
+
+.linha{
+    background-color: #000000;
+    border: #000000 1px solid;
+
+}
+
+.roupas{
+    text-align: center;
+    background-color: #FFE3A6;
+    color: #000000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 1% 20%;
+    margin: 5% 20%;
+    border-radius: 10px;
+    font-size: 40px;
+    margin-bottom: 3%;
+    border: #000000 1px solid;
+}
+
+.roupa1{
+    margin: 10% 20%;
+    text-align: center;
+    background-color: #FFE3A6;
+    border: #000000 1px solid;
+    border-radius: 10px;
+    
+}
+
+.roupa2{
+    margin: 10% 20%;
+    text-align: center;
+    background-color: #FFE3A6;
+    border: #000000 1px solid;
+    border-radius: 10px;
+    
+}
+
+.roupa3{
+    margin: 10% 20%;
+    text-align: center;
+    background-color: #FFE3A6;
+    border: #000000 1px solid;
+    border-radius: 10px;
+    
+}
+
+.imgroupa1{
+    padding: 5% 20%;
+}
+
+.imgroupa2{
+    padding: 5% 20%;
+}
+
+.imgroupa3{
+    padding: 5% 20%;
+}
+
+.textoroupa1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin: 3% 3%;
+
+}
+
+
+.textoroupa2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin: 3% 3%;
+
+}
+
+
+.textoroupa3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin: 3% 3%;
+
+}
+
+.contato{
+    padding: 100px 100px;
+    background-color: #FFE3A6;
+    border-top: #000000 1px solid;
+}
+
+.textocontato{
+    text-align: center;
+    background-color: #FFE3A6;
+
+}
+
+.textocontato2{
+    margin-left: 41%;
+
+}
+
+.col{
+    margin-left: 45%
+
+}
+
+.fa{
+    
+    width: 50px;
+    height: 50px;
+}
+
